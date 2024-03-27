@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992363592270",
+    "project_id": "expence-tracker-app-4507b",
+    "storage_bucket": "expence-tracker-app-4507b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992363592270:android:39282dc5a206f95b25e11f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrch4qtiObd2W9NHX0QyXhTY0SAFYmEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
